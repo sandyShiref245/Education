@@ -1,0 +1,153 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 85%;
+  margin: auto;
+}
+
+.cl {
+  clear: both;
+}
+
+/*start nav bar*/
+nav {
+  border-top: 6px #29ca8e solid;
+  box-shadow: 0px 16px 36px 4px rgba(99, 99, 99, 0.26);
+  position: fixed;
+  width: 100%;
+  background-color: #fff;
+  top: 0;
+
+}
+
+nav .container .logo {
+  float: left;
+  color: #454545;
+  font-size: 22px;
+  margin-top: 20px;
+  margin-right: 50px;
+}
+
+nav .container .menu {
+  float: left;
+  padding: 20px;
+  margin-left: 50px;
+}
+
+nav .container .menu>ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+nav .container .menu>ul>li {
+  float: left;
+  position: relative;
+}
+
+nav .container .menu>ul>li ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  background-color: #fff;
+  position: absolute;
+  top: 43px;
+  left: 0;
+  visibility: hidden;
+}
+
+nav .container .menu>ul>li ul li {
+  width: 100px;
+  padding: 10px;
+  border-bottom: 1px solid #29ca8e;
+}
+
+nav .container .menu>ul>li ul li:last-of-type {
+  border: 0;
+}
+
+nav .container .menu>ul>li ul li:hover {
+  background-color: #29ca8e;
+  color: #fff;
+  cursor: pointer;
+  padding-left: 15px;
+  transition: all 0.5s ease-in-out;
+}
+
+nav .container .menu>ul>li:hover ul {
+  visibility: visible;
+}
+
+nav .container .menu>ul>li>a {
+  padding: 21px;
+  color: #636363;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+
+
+nav .container .menu ul li a:hover {
+  transition: all 0.2s ease-in-out;
+  background-color: #29ca8e;
+  color: #fff;
+}
+
+nav .container .tel {
+  float: right;
+  margin-top: 18px;
+}
+
+nav .container .tel p {
+  float: right;
+  margin: 0;
+  padding: 0;
+  margin-top: 6px;
+  color: #454545;
+  font-size: 18px;
+}
+
+nav .container .tel i {
+  width: 30px;
+  height: 30px;
+  background-color: #29ca8e;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 30px;
+  float: left;
+  color: #fff;
+  margin-right: 10px;
+}
+
+/*end nav bar*/
+article:first-of-type {
+  background-color: red;
+}
+
+article:nth-of-type(2) {
+  background-color: green;
+}
+
+article:nth-of-type(3) {
+  background-color: blue;
+}
+
+article:nth-of-type(4) {
+  background-color: gray;
+}
+
+article:last-of-type {
+  background-color: yellow;
+}
+
+article h1 {
+  padding: 0;
+  margin: 0;
+}

@@ -1,0 +1,796 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d205b829-4e4f-4821-b742-1e43d9a10b1c" name="Default" comment="" />
+    <ignored path="Et3lm.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Et3lm" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="UserHome.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserHome.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="15953" max-vertical-offset="36550">
+              <caret line="949" column="36" selection-start-line="949" selection-start-column="36" selection-end-line="949" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CourseContents.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CourseContents.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="19611" max-vertical-offset="31926">
+              <caret line="1166" column="82" selection-start-line="1166" selection-start-column="82" selection-end-line="1166" selection-end-column="82" />
+              <folding>
+                <element signature="n#style#0;n#table#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="UserProfile.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/UserProfile.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="17628" max-vertical-offset="28254">
+              <caret line="1050" column="32" selection-start-line="1050" selection-start-column="32" selection-end-line="1052" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.60211265" vertical-offset="8243" max-vertical-offset="13923">
+              <caret line="505" column="5" selection-start-line="497" selection-start-column="3" selection-end-line="505" selection-end-column="5" />
+              <folding>
+                <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="playlist.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/playlist.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3978">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="login.htm" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/login.htm">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-455.76923" vertical-offset="560" max-vertical-offset="16507">
+              <caret line="730" column="0" selection-start-line="730" selection-start-column="0" selection-end-line="872" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="6266" max-vertical-offset="8585">
+              <caret line="389" column="27" selection-start-line="389" selection-start-column="11" selection-end-line="389" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-6.62069" vertical-offset="17726" max-vertical-offset="22134">
+              <caret line="1054" column="18" selection-start-line="1054" selection-start-column="15" selection-end-line="1054" selection-end-column="18" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="innerStyle.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/innerStyle.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.068966" vertical-offset="41701" max-vertical-offset="80648">
+              <caret line="2477" column="0" selection-start-line="2477" selection-start-column="0" selection-end-line="2477" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Result.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Result.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-3.2692308" vertical-offset="20689" max-vertical-offset="25551">
+              <caret line="1222" column="76" selection-start-line="1222" selection-start-column="76" selection-end-line="1222" selection-end-column="76" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/css/style.css" />
+        <option value="$PROJECT_DIR$/EnterExam.html" />
+        <option value="$PROJECT_DIR$/User-Exams.html" />
+        <option value="$PROJECT_DIR$/userOrg.html" />
+        <option value="$PROJECT_DIR$/user-coursepage.html" />
+        <option value="$PROJECT_DIR$/AddMoney.html" />
+        <option value="$PROJECT_DIR$/AddOrganization.html" />
+        <option value="$PROJECT_DIR$/Admin-Exams.html" />
+        <option value="$PROJECT_DIR$/Admin-Final Exam.html" />
+        <option value="$PROJECT_DIR$/AllCourses.html" />
+        <option value="$PROJECT_DIR$/basicCourseSettings.html" />
+        <option value="$PROJECT_DIR$/coursePage.html" />
+        <option value="$PROJECT_DIR$/CurrenciesSetting.html" />
+        <option value="$PROJECT_DIR$/Final Exam.html" />
+        <option value="$PROJECT_DIR$/final-invitation.html" />
+        <option value="$PROJECT_DIR$/Followers.html" />
+        <option value="$PROJECT_DIR$/GetCourseContent.html" />
+        <option value="$PROJECT_DIR$/HomeSetting.html" />
+        <option value="$PROJECT_DIR$/Invitation.html" />
+        <option value="$PROJECT_DIR$/invitePeople.html" />
+        <option value="$PROJECT_DIR$/LanguageSetting.html" />
+        <option value="$PROJECT_DIR$/LocationSetting.html" />
+        <option value="$PROJECT_DIR$/Notifications.html" />
+        <option value="$PROJECT_DIR$/orderBasicCourseSettings.html" />
+        <option value="$PROJECT_DIR$/Orgprofile.html" />
+        <option value="$PROJECT_DIR$/pocketMoney.html" />
+        <option value="$PROJECT_DIR$/roles.html" />
+        <option value="$PROJECT_DIR$/setting.html" />
+        <option value="$PROJECT_DIR$/settingForContactType.html" />
+        <option value="$PROJECT_DIR$/settingForCourseLevel.html" />
+        <option value="$PROJECT_DIR$/settingForCourseType.html" />
+        <option value="$PROJECT_DIR$/settingForOrgType.html" />
+        <option value="$PROJECT_DIR$/SubscribedCourses.html" />
+        <option value="$PROJECT_DIR$/SubscribedOrgs.html" />
+        <option value="$PROJECT_DIR$/suggestPeoples.html" />
+        <option value="$PROJECT_DIR$/Trainees.html" />
+        <option value="$PROJECT_DIR$/Trainers.html" />
+        <option value="$PROJECT_DIR$/UserProfile.html" />
+        <option value="$PROJECT_DIR$/UserHome.html" />
+        <option value="$PROJECT_DIR$/unregistered-user-course.html" />
+        <option value="$PROJECT_DIR$/OrgHome.html" />
+        <option value="$PROJECT_DIR$/ExamResult.html" />
+        <option value="$PROJECT_DIR$/CourseContentsForOrg.html" />
+        <option value="$PROJECT_DIR$/Result.html" />
+        <option value="$PROJECT_DIR$/ResultForUnregistered.html" />
+        <option value="$PROJECT_DIR$/css/innerStyle.css" />
+        <option value="$PROJECT_DIR$/CourseContents.html" />
+        <option value="$PROJECT_DIR$/login.htm" />
+        <option value="$PROJECT_DIR$/js/custom.js" />
+        <option value="$PROJECT_DIR$/css/mejs-controls.svg" />
+        <option value="$PROJECT_DIR$/test.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Et3lm" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../It Company/EGYSYSTEMS" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm" />
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm\fonts" />
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm\images\slider" />
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm\css" />
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm\js" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\egysystem company\Et3lm 1-10-2018\Et3lm5-10\Et3lm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d205b829-4e4f-4821-b742-1e43d9a10b1c" name="Default" comment="" />
+      <created>1539633056055</created>
+      <option name="number" value="Default" />
+      <updated>1539633056055</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19985358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12755905" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32913387" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.12755905" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19985358" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LanguageSetting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.807693" vertical-offset="15680" max-vertical-offset="16626">
+          <caret line="945" column="10" selection-start-line="945" selection-start-column="10" selection-end-line="945" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LocationSetting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.307693" vertical-offset="16928" max-vertical-offset="17833">
+          <caret line="1010" column="10" selection-start-line="1010" selection-start-column="10" selection-end-line="1010" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Notifications.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.576923" vertical-offset="25945" max-vertical-offset="27064">
+          <caret line="1550" column="10" selection-start-line="1550" selection-start-column="10" selection-end-line="1550" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/orderBasicCourseSettings.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.769231" vertical-offset="15928" max-vertical-offset="16847">
+          <caret line="958" column="10" selection-start-line="958" selection-start-column="10" selection-end-line="958" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pocketMoney.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.115385" vertical-offset="18197" max-vertical-offset="19125">
+          <caret line="1092" column="26" selection-start-line="1092" selection-start-column="26" selection-end-line="1092" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/roles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.961538" vertical-offset="29193" max-vertical-offset="30141">
+          <caret line="1734" column="10" selection-start-line="1734" selection-start-column="10" selection-end-line="1734" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/setting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.5" vertical-offset="22652" max-vertical-offset="23477">
+          <caret line="1347" column="10" selection-start-line="1347" selection-start-column="10" selection-end-line="1347" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settingForContactType.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.038462" vertical-offset="15665" max-vertical-offset="16643">
+          <caret line="946" column="10" selection-start-line="946" selection-start-column="10" selection-end-line="946" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settingForCourseLevel.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.769231" vertical-offset="15911" max-vertical-offset="16830">
+          <caret line="957" column="10" selection-start-line="957" selection-start-column="10" selection-end-line="957" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settingForOrgType.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.6153846" vertical-offset="15952" max-vertical-offset="16711">
+          <caret line="950" column="10" selection-start-line="950" selection-start-column="10" selection-end-line="950" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trainees.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.769231" vertical-offset="28941" max-vertical-offset="29886">
+          <caret line="1725" column="10" selection-start-line="1725" selection-start-column="10" selection-end-line="1725" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/User-Exams.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="499.42307" vertical-offset="24817" max-vertical-offset="26605">
+          <caret line="696" column="19" selection-start-line="696" selection-start-column="19" selection-end-line="696" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-Exams.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.26923" vertical-offset="27524" max-vertical-offset="28730">
+          <caret line="1647" column="10" selection-start-line="1647" selection-start-column="10" selection-end-line="1647" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-coursepage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.115385" vertical-offset="20023" max-vertical-offset="26588">
+          <caret line="1204" column="38" selection-start-line="1195" selection-start-column="30" selection-end-line="1204" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Trainers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.461538" vertical-offset="28884" max-vertical-offset="29886">
+          <caret line="1712" column="26" selection-start-line="1712" selection-start-column="26" selection-end-line="1712" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/suggestPeoples.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.115385" vertical-offset="18285" max-vertical-offset="19363">
+          <caret line="1088" column="10" selection-start-line="1088" selection-start-column="10" selection-end-line="1088" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubscribedOrgs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-11.346154" vertical-offset="21397" max-vertical-offset="22253">
+          <caret line="1276" column="10" selection-start-line="1276" selection-start-column="10" selection-end-line="1276" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SubscribedCourses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-18.192308" vertical-offset="21661" max-vertical-offset="22695">
+          <caret line="1302" column="10" selection-start-line="1302" selection-start-column="10" selection-end-line="1302" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Orgprofile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.8461537" vertical-offset="36194" max-vertical-offset="37009">
+          <caret line="2138" column="35" selection-start-line="2138" selection-start-column="35" selection-end-line="2138" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OrgHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.538462" vertical-offset="17418" max-vertical-offset="39695">
+          <caret line="1056" column="46" selection-start-line="1056" selection-start-column="46" selection-end-line="1056" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Followers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.153846" vertical-offset="24293" max-vertical-offset="25092">
+          <caret line="1443" column="10" selection-start-line="1443" selection-start-column="10" selection-end-line="1443" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Final Exam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.076923" vertical-offset="24794" max-vertical-offset="27727">
+          <caret line="1480" column="10" selection-start-line="1480" selection-start-column="10" selection-end-line="1480" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ExamResult.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17027" max-vertical-offset="20111">
+          <caret line="1025" column="85" selection-start-line="1025" selection-start-column="85" selection-end-line="1025" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterExam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17479" max-vertical-offset="18360">
+          <caret line="697" column="19" selection-start-line="697" selection-start-column="19" selection-end-line="697" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/coursePage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="22156" max-vertical-offset="36346">
+          <caret line="1329" column="30" selection-start-line="1329" selection-start-column="30" selection-end-line="1329" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/unregistered-user-course.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14375" max-vertical-offset="22627">
+          <caret line="858" column="26" selection-start-line="818" selection-start-column="20" selection-end-line="858" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseContentsForOrg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17906" max-vertical-offset="40443">
+          <caret line="1063" column="24" selection-start-line="1063" selection-start-column="24" selection-end-line="1063" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AllCourses.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="31872" max-vertical-offset="32725">
+          <caret line="1892" column="10" selection-start-line="1892" selection-start-column="10" selection-end-line="1892" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Admin-Final Exam.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.923077" vertical-offset="27917" max-vertical-offset="29019">
+          <caret line="1665" column="10" selection-start-line="1665" selection-start-column="10" selection-end-line="1665" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AddOrganization.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="20571" max-vertical-offset="21760">
+          <caret line="1246" column="10" selection-start-line="1246" selection-start-column="10" selection-end-line="1246" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/jsCalendar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6732">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userOrg.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="26222" max-vertical-offset="26979">
+          <caret line="1554" column="10" selection-start-line="1554" selection-start-column="10" selection-end-line="1554" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ResultForUnregistered.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="12342" max-vertical-offset="21930">
+          <caret line="739" column="10" selection-start-line="739" selection-start-column="10" selection-end-line="739" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settingForCourseType.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="14528" max-vertical-offset="16745">
+          <caret line="876" column="0" selection-start-line="817" selection-start-column="23" selection-end-line="876" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="29019" max-vertical-offset="33881">
+          <caret line="1739" column="32" selection-start-line="1739" selection-start-column="32" selection-end-line="1739" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mediaelementplayer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="12172">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/madar-poster.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/playlist-controls.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="986">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/mejs-controls.svg">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="536">
+          <caret line="0" column="111" selection-start-line="0" selection-start-column="111" selection-end-line="0" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserProfile.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="17628" max-vertical-offset="28254">
+          <caret line="1050" column="32" selection-start-line="1050" selection-start-column="32" selection-end-line="1052" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/UserHome.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="15953" max-vertical-offset="36550">
+          <caret line="949" column="36" selection-start-line="949" selection-start-column="36" selection-end-line="949" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/playlist.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3978">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CourseContents.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="19611" max-vertical-offset="31926">
+          <caret line="1166" column="82" selection-start-line="1166" selection-start-column="82" selection-end-line="1166" selection-end-column="82" />
+          <folding>
+            <element signature="n#style#0;n#table#0;n#tbody#0;n#table#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#1;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#0;n#div#1;n#div#0;n#div#0;n#section#0;n#div#1;n#div#1;n#div#0;n#div#0;n#section#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#table#0;n#div#0;n#form#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../عبده شاهين/elements-adminto-responsive-admin-dashboard-E85aR-2017-02-08/Admin/Horizontal-RTL/form-advanced.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.47887325" vertical-offset="11696" max-vertical-offset="30362">
+          <caret line="704" column="0" selection-start-line="704" selection-start-column="0" selection-end-line="704" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6266" max-vertical-offset="8585">
+          <caret line="389" column="27" selection-start-line="389" selection-start-column="11" selection-end-line="389" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../It Company/EGYSYSTEMS/assets/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.39788732" vertical-offset="13459" max-vertical-offset="14433">
+          <caret line="805" column="37" selection-start-line="805" selection-start-column="16" selection-end-line="805" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Result.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.2692308" vertical-offset="20689" max-vertical-offset="25551">
+          <caret line="1222" column="76" selection-start-line="1222" selection-start-column="76" selection-end-line="1222" selection-end-column="76" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/login.htm">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-455.76923" vertical-offset="560" max-vertical-offset="16507">
+          <caret line="730" column="0" selection-start-line="730" selection-start-column="0" selection-end-line="872" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.62069" vertical-offset="17726" max-vertical-offset="22134">
+          <caret line="1054" column="18" selection-start-line="1054" selection-start-column="15" selection-end-line="1054" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/innerStyle.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.068966" vertical-offset="41701" max-vertical-offset="80648">
+          <caret line="2477" column="0" selection-start-line="2477" selection-start-column="0" selection-end-line="2477" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.60211265" vertical-offset="8243" max-vertical-offset="13923">
+          <caret line="505" column="5" selection-start-line="497" selection-start-column="3" selection-end-line="505" selection-end-column="5" />
+          <folding>
+            <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#figcaption#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#figcaption#0;n#figure#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#div#0;n#div#4;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
